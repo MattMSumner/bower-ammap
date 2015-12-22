@@ -1,7 +1,8 @@
 {
   "name": "ammap",
-  "version": "3.14.5 ",
+  "version": "3.18.3",
   "main": "./dist/ammap/ammap.js",
+  "ignore": [],
   "dependencies": {
   }
 }
