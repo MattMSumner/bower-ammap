@@ -1,3 +1,7 @@
+**Note**: I created this package because there wasn't an officially supported
+one provided by amcharts. Happily, that is no longer the case and you should
+instead use the official package found here https://github.com/amcharts/ammap3
+
 # bower-ammap
 
 This repo is for distribution on `bower`. Can be found on
